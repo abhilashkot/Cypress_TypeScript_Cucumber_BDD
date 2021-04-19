@@ -1,4 +1,0 @@
-{
-  "ignoreTestFiles": "*.ts",
-  "chromeWebSecurity": false
-}
