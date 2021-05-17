@@ -1,0 +1,8 @@
+{
+  "name": "Using fixtures to represent data",
+  "email": "abhilash.kotabagi@philips.com",
+  "Password": "Casio@123",
+  "delayInSec":"2000",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "url": "http://localhost:3000/"
+}
